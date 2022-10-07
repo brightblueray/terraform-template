@@ -1,2 +1,2 @@
-# terraform-aws-module
-A simple template for an AWS Module
+# terraform-template
+A simple template for a terraform config
