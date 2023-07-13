@@ -1,5 +1,5 @@
 # General variables
-variable "region" {
+variable "aws_region" {
   type        = string
   description = "(required) The AWS region to use"
   default     = "us-east-2"
